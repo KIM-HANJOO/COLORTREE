@@ -6,7 +6,8 @@
 <p/>
 [PHOTO SOURCE][PHOTOLINK]
 
-[PHOTOLINK]: ('https://www.smithsonianmag.com/smart-news/the-scientific-reason-complementary-colors-look-good-together-114030051/')
+[PHOTOLINK]: https://www.smithsonianmag.com/smart-news/the-scientific-reason-complementary-colors-look-good-together-114030051/
+
 
 ***
 1. For every pixels of image, find **hue, saturation, value**
