@@ -15,7 +15,7 @@
 ***
 
 <p align="center">
-  <img src="https://github.com/suhyuuk/COLORTREE/blob/main/cartesian_opposite.png"  img width="400px"/>
+  <img src="https://github.com/suhyuuk/COLORTREE/blob/main/cartesian_opposite.png"  img width="600px"/>
 <p/>
 
 Scatterplot of **all** HSV points in *cartesian coordinates*
@@ -23,7 +23,7 @@ Scatterplot of **all** HSV points in *cartesian coordinates*
 
 
 <p align="center">
-  <img src="https://github.com/suhyuuk/COLORTREE/blob/main/cylindrical_opposite.png"  img width="400px"/>
+  <img src="https://github.com/suhyuuk/COLORTREE/blob/main/cylindrical_opposite.png"  img width="600px"/>
 <p/>
 
 Scatterplot of **all** HSV points in *cylindrical coordinates*
@@ -31,7 +31,7 @@ Scatterplot of **all** HSV points in *cylindrical coordinates*
 
 
 <p align="center">
-  <img src="https://github.com/suhyuuk/COLORTREE/blob/main/cylindrical_opposite_1per_centroids.png"  img width="400px"/>
+  <img src="https://github.com/suhyuuk/COLORTREE/blob/main/cylindrical_opposite_1per_centroids.png"  img width="600px"/>
 <p/>
 
 Scatterplot of **centroids** of HSV derived with K-means cluster analysis(K = 1% of pixel num)
